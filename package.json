@@ -12,7 +12,7 @@
     "vue": "^2.6.10",
     "vue-router": "^3.0.6",
     "vuex": "^3.1.1",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "uniqid": "^5.0.3"
   },
   "devDependencies": {
