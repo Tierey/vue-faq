@@ -1,6 +1,6 @@
 <template>
 	<div class="b-home">
-
+		<!-- <iframe src="http://localhost:3000" frameborder="0"></iframe> -->
 		<b-component></b-component>
 
 	</div>
